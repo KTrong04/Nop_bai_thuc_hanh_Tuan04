@@ -1,0 +1,43 @@
+img {
+    width: 70px;
+    border-radius: 60px;
+}
+
+.custom-badge-A {
+    color: green;
+    background-color: rgb(207, 240, 207);
+    border: 1px solid green;
+    border-radius: 10px;
+}
+
+.custom-badge-O {
+    color: rgb(11, 101, 190);
+    background-color: rgb(188, 215, 237);
+    border: 1px solid rgb(11, 101, 190);
+    border-radius: 10px;
+}
+
+.custom-badge-Aw {
+    color: rgb(128, 109, 0);
+    background-color: rgb(237, 235, 180);
+    border: 1px solid rgb(128, 109, 0);
+    border-radius: 10px;
+}
+
+.btn-outline-primary {
+    border: none;
+}
+
+.list-group-item:hover {
+    background-color: rgb(210, 240, 238);
+    
+}
+
+.card {
+    border: none;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    width: 250px;
+}

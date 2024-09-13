@@ -1,0 +1,13 @@
+.container {
+    width: 600px;
+}
+
+.list-group-item {
+    border-left: none;
+    border-right: none;
+}
+
+input {
+    padding: 5px;
+    transition: border-color 0.3s ease;
+}

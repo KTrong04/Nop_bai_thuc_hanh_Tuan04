@@ -1,0 +1,15 @@
+.Loi-thong-bao {
+    color: red;
+    font-size: 14px;
+    display: none;
+}
+
+.Dung-thong-bao {
+    color: green;
+    font-size: 14px;
+    display: none;
+}
+
+input.invalid {
+    border: red;
+}

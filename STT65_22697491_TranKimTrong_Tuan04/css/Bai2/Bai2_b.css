@@ -1,0 +1,40 @@
+
+input {
+    padding: 5px;
+    border-radius: 5px;
+    border-color: rgb(219, 218, 218)
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.container-fluid {
+    position: absolute;
+    top: 0;
+    background-color: rgb(46, 50, 61);
+}
+
+.navbar-nav li {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.dropdown-menu a {
+    color: black;
+}
+
+.dropdown-menu li {
+    padding-left: 40px;
+    margin-top: 0;
+}
+
+.dropdown-toggle:hover {
+    color: white;
+}
+
+.btn {
+    color: white;
+    border: none;
+}
