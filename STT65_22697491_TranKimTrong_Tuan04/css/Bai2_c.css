@@ -1,0 +1,28 @@
+.container {
+    width: 900px;
+}
+
+.form-label input {
+    width: 400px;
+    padding: 5px;
+}
+
+.signup-btn {
+    background-color: rgb(11, 195, 198);
+}
+
+.facebook-btn {
+    background-color: rgb(38, 148, 239);
+}
+
+.facebook-btn:hover {
+    background-color: rgb(70, 139, 10);
+}
+
+.signup-btn:hover {
+    background-color: rgb(70, 139, 10);
+}
+
+.or {
+    padding: 5px;
+}
